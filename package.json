@@ -34,13 +34,14 @@
     "@testing-library/react": "^16.3.2",
     "@testing-library/user-event": "^14.6.1"
   },
-  "pnpm": {
+ "pnpm": {
   "overrides": {
     "jsonpath": "^1.1.1",
-    "ajv": "^8.12.0",
+    "ajv": "^8.17.1", 
     "nth-check": "^2.0.1",
     "postcss": "^8.4.31",
-    "webpack-dev-server": "^5.0.4"
+    "webpack-dev-server": "^5.0.4",
+    "ajv-keywords": "^5.1.0"
   }
 }
 }
